@@ -17,7 +17,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "startrmit": "concurrently --kill-others \"react-scripts start\" \"npm run server\"",
+    "startrimus": "concurrently --kill-others \"react-scripts start\" \"npm run server\"",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
